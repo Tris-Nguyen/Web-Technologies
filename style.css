@@ -1,0 +1,58 @@
+/* Background */
+html {
+  background-image: url("img/tech-background.webp");
+  background-size: cover;
+}
+
+/* Center fixed width */
+body {
+  background-color: white;
+  border: transparent;
+  border-radius: 10px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* H1 and H2 Headings */
+h1,
+h2 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  letter-spacing: 2px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+/* Hyperlinks with hover effect */
+a {
+  color: navy;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+/* H2 Subheading Colors */
+#orange {
+  color: #f15c2a;
+}
+
+#blue {
+  color: #1774bb;
+}
+
+#yellow {
+  color: #fcb041;
+}
+
+/* WWW Logo */
+.logo {
+  text-align: center;
+}
